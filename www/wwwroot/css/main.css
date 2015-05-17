@@ -1,0 +1,441 @@
+body {
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  background-image: url('../images/light-grey-wood-photography-hd-wallpaper-1920x1200-4647.jpg'), url('../images/example-bg.png');
+  background-position: 0% 0%, 0% 0%;
+  background-attachment: scroll, scroll;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  color: #333;
+  font-size: 14px;
+  line-height: 20px;
+}
+h1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 30px 60px;
+  float: right;
+  border-radius: 20px;
+  background-color: white;
+  box-shadow: #999 0px 0px 10px 0px;
+  font-family: Lato, sans-serif;
+  color: #474747;
+  font-size: 25px;
+  line-height: 26px;
+  font-weight: 400;
+  text-align: center;
+}
+h2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: Lato, sans-serif;
+  color: dimgray;
+  font-size: 32px;
+  line-height: 36px;
+  font-weight: 300;
+}
+h3 {
+  margin-top: 20px;
+  margin-bottom: 0px;
+  color: #f24900;
+  font-size: 13px;
+  line-height: 30px;
+  font-weight: 700;
+  text-align: center;
+}
+h4 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+}
+h5 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+}
+h6 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 700;
+}
+p {
+  margin-top: 40px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  font-family: Lato, sans-serif;
+  color: #474747;
+  font-size: 16px;
+  text-align: justify;
+}
+a {
+  display: block;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 10px;
+  float: none;
+  color: dimgray;
+  text-decoration: none;
+}
+.button {
+  display: inline-block;
+  padding: 12px 30px;
+  background-color: #999;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+.heading-1 {
+  display: block;
+  margin-top: 60px;
+  margin-bottom: 0px;
+}
+.para-2 {
+  margin-top: 0px;
+}
+.head {
+  background-color: transparent;
+  box-shadow: none;
+}
+._1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.selangor {
+  display: block;
+  margin-right: 16px;
+  float: left;
+}
+.jais {
+  display: block;
+  float: left;
+}
+._2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 30px;
+  border-radius: 20px;
+  background-color: white;
+  box-shadow: black 0px 0px 15px 2px;
+}
+.login {
+  padding-right: 80px;
+  padding-left: 30px;
+  border-right-style: solid;
+  border-right-color: #474747;
+  background-color: transparent;
+}
+.announcement {
+  padding-right: 20px;
+  padding-left: 30px;
+}
+.hantar {
+  margin-top: 10px;
+  padding-right: 50px;
+  padding-left: 50px;
+  background-color: #919191;
+}
+.login-form {
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+.username {
+  margin-bottom: 0px;
+  color: #f24900;
+}
+.password {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  color: #f24900;
+}
+.copyright {
+  margin-top: 40px;
+  color: #474747;
+  text-align: center;
+}
+.container {
+  border: 1px solid black;
+}
+.logo {
+  width: 291px;
+  height: 70px;
+  padding-top: 25px;
+  padding-right: 30px;
+  padding-left: 30px;
+  float: left;
+  border-style: none;
+  color: #999;
+  font-size: 11px;
+  line-height: 10px;
+}
+.logo:hover {
+  padding-top: 25px;
+  color: #999;
+  line-height: 10px;
+  text-decoration: none;
+}
+.wrapper {
+  margin-top: 0px;
+  padding-top: 0px;
+  border-radius: 20px;
+  background-color: transparent;
+}
+.main-container {
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: white;
+  box-shadow: #999 0px 0px 10px 0px;
+}
+.user {
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+.submit-button {
+  margin-top: 5px;
+  padding-right: 30px;
+  padding-left: 30px;
+  background-color: #999;
+}
+.body-1 {
+  background-image: url('../images/bg.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+.success {
+  background-color: white;
+}
+.body-2 {
+  background-image: url('../images/Grey-Wallpaper-37.jpg');
+  background-position: 0% 0%;
+  background-size: cover;
+  background-attachment: scroll;
+  box-shadow: none;
+}
+.head-1 {
+  height: 70px;
+  background-color: white;
+  box-shadow: black 0px 0px 20px 0px;
+}
+.link-1 {
+  width: 100px;
+  height: 80px;
+  float: right;
+}
+.peti-pesanan {
+  margin-top: 25px;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 11px;
+}
+.link-block {
+  height: 70px;
+  margin-right: 0px;
+  padding-bottom: 24px;
+}
+.pentadbiran {
+  width: 184px;
+  height: 70px;
+  margin: 0px;
+  padding: 25px 30px;
+  float: right;
+  border-style: none;
+  font-size: 11px;
+}
+.log-keluar {
+  width: 133px;
+  height: 70px;
+  margin: 0px;
+  padding: 25px 30px;
+  float: right;
+  border-style: none;
+  font-size: 11px;
+}
+.link-block-2 {
+  width: 150px;
+  height: 70px;
+  margin-right: 0px;
+  padding: 20px 10px;
+  font-size: 11px;
+}
+.text-link-1 {
+  width: 143px;
+  height: 70px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  padding: 25px 30px;
+  float: right;
+  border-style: none;
+  font-size: 11px;
+  text-align: center;
+}
+.pengguna {
+  height: 100px;
+  margin-bottom: 0px;
+  padding-top: 70px;
+  padding-bottom: 0px;
+}
+.ikon-pengguna {
+  display: block;
+  margin-top: 0px;
+  margin-right: 10px;
+  margin-left: 0px;
+  float: left;
+  clear: both;
+  color: #f24900;
+  font-size: 13px;
+  font-weight: 700;
+  text-align: left;
+  list-style-type: disc;
+}
+.kembali {
+  width: auto;
+  height: 20px;
+  margin-top: 40px;
+  margin-bottom: 5px;
+  float: right;
+  border-style: none;
+}
+.text_id {
+  margin-left: 30px;
+  padding-left: 0px;
+  float: left;
+  color: #f24900;
+  font-size: 13px;
+  font-weight: 700;
+}
+.text_fungsi {
+  float: right;
+  color: #f24900;
+  font-size: 13px;
+  font-weight: 700;
+}
+.div_container {
+  clear: both;
+  border-radius: 0px;
+  background-color: transparent;
+}
+.column_menu {
+  margin-top: 30px;
+}
+.menu_1 {
+  right: 15px;
+  display: block;
+  padding-bottom: 15px;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: black 0px 0px 6px 0px;
+}
+.menu_2 {
+  right: 5px;
+  padding-bottom: 15px;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: black 0px 0px 6px 0px;
+}
+.menu_3 {
+  left: 5px;
+  padding-bottom: 15px;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: black 0px 0px 6px 0px;
+}
+.menu_4 {
+  left: 15px;
+  padding-bottom: 15px;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: black 0px 0px 6px 0px;
+}
+.nama_pengguna {
+  color: #474747;
+}
+.ic_pengguna {
+  color: #474747;
+}
+.link_borang {
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-left: 12px;
+  box-shadow: none;
+  -webkit-transform: none;
+  -ms-transform: none;
+  transform: none;
+  font-size: 12px;
+  list-style-type: square;
+  text-shadow: none;
+}
+.link_borang:hover {
+  box-shadow: none;
+  -webkit-transform: none;
+  -ms-transform: none;
+  transform: none;
+  color: #f24900;
+  text-shadow: none;
+}
+.list_submenu {
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  color: #474747;
+  font-size: 14px;
+  line-height: 10px;
+  font-style: normal;
+  font-weight: 300;
+}
+.list_submenu:hover {
+  color: #474747;
+}
+.list {
+  padding-left: 25px;
+  line-height: 20px;
+  font-style: normal;
+}
+.link {
+  margin-bottom: 0px;
+  color: #474747;
+}
+.not_linked {
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  color: #ccc;
+  font-size: 12px;
+  line-height: 13px;
+  font-style: italic;
+  font-weight: 300;
+  text-decoration: none;
+}
+.not_linked:hover {
+  color: #ccc;
+}
+.link_submenu {
+  margin-bottom: 0px;
+  padding-top: 0px;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  color: #474747;
+  font-size: 12px;
+  line-height: 13px;
+  font-weight: 300;
+}
+.link_submenu:hover {
+  color: #f24900;
+  font-size: 12px;
+  font-weight: 400;
+  text-decoration: none;
+}
+@media (max-width: 991px) {
+}
